@@ -3,12 +3,14 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: Maria Clara Soalheiro Bessa
+- Matricula: 914082
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+`<images/Captura de tela 2026-03-13 142623.png
+(<images/Captura de tela 2026-03-13 142645.png>)
+(<images/Captura de tela 2026-03-13 142706.png>)>`
 
 
 ## Orientações sobre Linguagem MarkDown
